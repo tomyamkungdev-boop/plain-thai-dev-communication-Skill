@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plain Thai Dev"
+  short_description: "Clear Thai replies for developer workflows"
+  default_prompt: "Use $plain-thai-dev-communication to explain coding work in clear, natural Thai with minimal unnecessary English."
